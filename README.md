@@ -3,6 +3,9 @@
 Diese Liste stellt eine Übersicht dar zu Informationsquellen sowie Platformen zu Hilfsangeboten und -gesuchen dar.
 
 ## Information
+* https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html (RSS: https://www.rki.de/SiteGlobals/Functions/RSSFeed/RSSGenerator_nCoV.xml)
+* https://www.bundesgesundheitsministerium.de/coronavirus.html
+* https://www.infektionsschutz.de/coronavirus/
 * https://www.coronazaehler.de/
 * [Tagesaktuelle Informationen zum Coronavirus des Bundesgesundheitsministeriums](https://www.bundesgesundheitsministerium.de/coronavirus.html)
 * [Informationen des Robert-Koch-Instituts](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html)
